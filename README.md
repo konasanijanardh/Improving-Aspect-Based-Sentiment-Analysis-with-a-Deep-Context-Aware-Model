@@ -84,7 +84,7 @@ This project builds upon the DCASAM framework, integrating **Hierarchical Attent
 
 - Python 3.8+
 - TensorFlow / Keras
-- Hugging Face Transformers (BERT)
+- BERT
 - NumPy
 - Pandas
 - Matplotlib
